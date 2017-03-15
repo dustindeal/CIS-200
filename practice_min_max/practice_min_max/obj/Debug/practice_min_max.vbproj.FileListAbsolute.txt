@@ -1,0 +1,37 @@
+F:\CIS200\Lecture_Notes\practice_min_max\practice_min_max\bin\Debug\practice_min_max.exe.config
+F:\CIS200\Lecture_Notes\practice_min_max\practice_min_max\bin\Debug\practice_min_max.exe
+F:\CIS200\Lecture_Notes\practice_min_max\practice_min_max\bin\Debug\practice_min_max.pdb
+F:\CIS200\Lecture_Notes\practice_min_max\practice_min_max\bin\Debug\practice_min_max.xml
+F:\CIS200\Lecture_Notes\practice_min_max\practice_min_max\obj\Debug\practice_min_max.vbprojResolveAssemblyReference.cache
+F:\CIS200\Lecture_Notes\practice_min_max\practice_min_max\obj\Debug\practice_min_max.Form1.resources
+F:\CIS200\Lecture_Notes\practice_min_max\practice_min_max\obj\Debug\practice_min_max.Resources.resources
+F:\CIS200\Lecture_Notes\practice_min_max\practice_min_max\obj\Debug\practice_min_max.vbproj.GenerateResource.Cache
+F:\CIS200\Lecture_Notes\practice_min_max\practice_min_max\obj\Debug\practice_min_max.exe
+F:\CIS200\Lecture_Notes\practice_min_max\practice_min_max\obj\Debug\practice_min_max.xml
+F:\CIS200\Lecture_Notes\practice_min_max\practice_min_max\obj\Debug\practice_min_max.pdb
+M:\Courses\CIS\CIS 200 Programming for Info. Systems\McCormack\practice_min_max\practice_min_max\bin\Debug\practice_min_max.exe.config
+M:\Courses\CIS\CIS 200 Programming for Info. Systems\McCormack\practice_min_max\practice_min_max\obj\Debug\practice_min_max.exe
+M:\Courses\CIS\CIS 200 Programming for Info. Systems\McCormack\practice_min_max\practice_min_max\obj\Debug\practice_min_max.xml
+M:\Courses\CIS\CIS 200 Programming for Info. Systems\McCormack\practice_min_max\practice_min_max\obj\Debug\practice_min_max.pdb
+M:\Courses\CIS\CIS 200 Programming for Info. Systems\McCormack\practice_min_max\practice_min_max\bin\Debug\practice_min_max.exe
+M:\Courses\CIS\CIS 200 Programming for Info. Systems\McCormack\practice_min_max\practice_min_max\bin\Debug\practice_min_max.pdb
+M:\Courses\CIS\CIS 200 Programming for Info. Systems\McCormack\practice_min_max\practice_min_max\bin\Debug\practice_min_max.xml
+M:\Courses\CIS\CIS 200 Programming for Info. Systems\McCormack\practice_min_max\practice_min_max\obj\Debug\practice_min_max.vbprojResolveAssemblyReference.cache
+M:\Courses\CIS\CIS 200 Programming for Info. Systems\McCormack\practice_min_max\practice_min_max\obj\Debug\practice_min_max.Form1.resources
+M:\Courses\CIS\CIS 200 Programming for Info. Systems\McCormack\practice_min_max\practice_min_max\obj\Debug\practice_min_max.Resources.resources
+M:\Courses\CIS\CIS 200 Programming for Info. Systems\McCormack\practice_min_max\practice_min_max\obj\Debug\practice_min_max.vbproj.GenerateResource.Cache
+G:\CIS 200\practice_min_max\practice_min_max\bin\Debug\practice_min_max.exe.config
+G:\CIS 200\practice_min_max\practice_min_max\obj\Debug\practice_min_max.exe
+G:\CIS 200\practice_min_max\practice_min_max\obj\Debug\practice_min_max.xml
+G:\CIS 200\practice_min_max\practice_min_max\obj\Debug\practice_min_max.pdb
+G:\CIS 200\practice_min_max\practice_min_max\bin\Debug\practice_min_max.exe
+G:\CIS 200\practice_min_max\practice_min_max\bin\Debug\practice_min_max.pdb
+G:\CIS 200\practice_min_max\practice_min_max\bin\Debug\practice_min_max.xml
+G:\CIS 200\practice_min_max\practice_min_max\obj\Debug\practice_min_max.vbprojResolveAssemblyReference.cache
+G:\CIS 200\practice_min_max\practice_min_max\obj\Debug\practice_min_max.Form1.resources
+G:\CIS 200\practice_min_max\practice_min_max\obj\Debug\practice_min_max.Resources.resources
+G:\CIS 200\practice_min_max\practice_min_max\obj\Debug\practice_min_max.vbproj.GenerateResource.Cache
+D:\CIS 200\practice_min_max\practice_min_max\bin\Debug\practice_min_max.exe.config
+D:\CIS 200\practice_min_max\practice_min_max\obj\Debug\practice_min_max.exe
+D:\CIS 200\practice_min_max\practice_min_max\obj\Debug\practice_min_max.xml
+D:\CIS 200\practice_min_max\practice_min_max\obj\Debug\practice_min_max.pdb

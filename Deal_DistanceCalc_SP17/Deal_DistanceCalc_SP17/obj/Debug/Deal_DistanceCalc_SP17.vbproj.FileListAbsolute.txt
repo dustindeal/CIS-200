@@ -1,0 +1,11 @@
+G:\CIS 200\Deal_DistanceCalc_SP17\Deal_DistanceCalc_SP17\bin\Debug\Deal_DistanceCalc_SP17.exe.config
+G:\CIS 200\Deal_DistanceCalc_SP17\Deal_DistanceCalc_SP17\bin\Debug\Deal_DistanceCalc_SP17.exe
+G:\CIS 200\Deal_DistanceCalc_SP17\Deal_DistanceCalc_SP17\bin\Debug\Deal_DistanceCalc_SP17.pdb
+G:\CIS 200\Deal_DistanceCalc_SP17\Deal_DistanceCalc_SP17\bin\Debug\Deal_DistanceCalc_SP17.xml
+G:\CIS 200\Deal_DistanceCalc_SP17\Deal_DistanceCalc_SP17\obj\Debug\Deal_DistanceCalc_SP17.vbprojResolveAssemblyReference.cache
+G:\CIS 200\Deal_DistanceCalc_SP17\Deal_DistanceCalc_SP17\obj\Debug\Deal_DistanceCalc_SP17.frmDeal.resources
+G:\CIS 200\Deal_DistanceCalc_SP17\Deal_DistanceCalc_SP17\obj\Debug\Deal_DistanceCalc_SP17.Resources.resources
+G:\CIS 200\Deal_DistanceCalc_SP17\Deal_DistanceCalc_SP17\obj\Debug\Deal_DistanceCalc_SP17.vbproj.GenerateResource.Cache
+G:\CIS 200\Deal_DistanceCalc_SP17\Deal_DistanceCalc_SP17\obj\Debug\Deal_DistanceCalc_SP17.exe
+G:\CIS 200\Deal_DistanceCalc_SP17\Deal_DistanceCalc_SP17\obj\Debug\Deal_DistanceCalc_SP17.xml
+G:\CIS 200\Deal_DistanceCalc_SP17\Deal_DistanceCalc_SP17\obj\Debug\Deal_DistanceCalc_SP17.pdb
